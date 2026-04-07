@@ -40,8 +40,5 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 Simplemente lanza tu servidor de Jupyter o abre el archivo en VS Code:
 ```bash
 jupyter notebook Analisis_Tortillas.ipynb
-```
-Asegúrate de ejecutar todas las celdas secuencialmente para replicar los gráficos interactivos de `plotly` (los gráficos te volarán la cabeza).
 
----
 > *Este proyecto fue construido como demostración de análisis estadístico profundo, narración de historias con datos (Data Storytelling) e implementación end-to-end de ML.*
