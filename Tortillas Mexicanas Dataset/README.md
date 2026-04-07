@@ -22,7 +22,6 @@ La tortilla no solo es gastronomía, es la base de la economía nutricional del 
 
 - `tortilla_prices.csv`: El conjunto de datos crudo (300k+ registros diarios con Ciudad, Estado, Año, Mes, Día y Precio Promedio).
 - **`Analisis_Tortillas.ipynb`:** 🌟 ¡El núcleo del proyecto! Aquí yace el notebook principal detalladamente comentado y explicado paso a paso. Úsalo para reproducir mis hallazgos.
-- `create_notebook.py`: Script generador de la infraestructura y celdas del Notebook usando `nbformat`. (Herramienta puramente administrativa).
 
 ## 💡 Hallazgos Principales (Spoilers)
 
