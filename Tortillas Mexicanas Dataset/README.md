@@ -28,17 +28,4 @@ La tortilla no solo es gastronomía, es la base de la economía nutricional del 
 1. **La Paradoja Retail**: Sorprendentemente, los grandes minoristas venden más barato el Kilogramo que las tortillerías locales. (Las razones económicas asociadas a esto implican producción masiva e ingredientes mixtos).
 2. **Inflación Lineal vs Factores Complejos**: Al aplicar machine learning, descubrimos que los comportamientos de subida de precio involucran interacciones altamente variables con los meses estacionales y la geografía. Aquí es donde **Random Forest** destroza las capacidades proyectivas de una mera Regresión Lineal.
 
-## ⚙️ Cómo Ejecutar Localmente
 
-### Prerrequisitos
-Asegúrate de contar con Python (>= 3.8) instalado y las siguientes librerías:
-```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn
-```
-
-### Ejecutar el Análisis
-Simplemente lanza tu servidor de Jupyter o abre el archivo en VS Code:
-```bash
-jupyter notebook Analisis_Tortillas.ipynb
-
-> *Este proyecto fue construido como demostración de análisis estadístico profundo, narración de historias con datos (Data Storytelling) e implementación end-to-end de ML.*
